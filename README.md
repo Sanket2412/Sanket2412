@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Khardekar</h1>
-<h3 align="center">A passionate Full Stack developer from Pune India. I Love Coding and always try to learn new technologies.</h3>
+<h3 align="center">A passionate React Developer from Pune India. I Love Coding and always try to learn new technologies.</h3>
 
 - 🔭 I’m currently working on **E-HealthCare App**
 
